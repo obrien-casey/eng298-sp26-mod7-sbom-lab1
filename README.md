@@ -1,4 +1,4 @@
-# UIUC ENG 298 - Fall 2025  
+# UIUC ENG 298 - Spring 2026  
 ## Module 7: Assignment: Secure Software Supply Chain with Software Bill of Materials (SBOMs)
 
 ## **Assignment Overview**
@@ -39,8 +39,8 @@ In the Module 7 Reading Material and lecture discussions, you explored how assur
 
 ## **Resources**
 
-- [Idaho National Lab (INL) SBOM Portal](https://sbom.inl.gov)  
-- [National Vulnerability Database (NVD)](https://nvd.nist.gov/vuln/search)
+- [**Idaho National Lab (INL) SBOM Portal**](https://sbom.inl.gov)  
+- [**National Vulnerability Database (NVD)**](https://nvd.nist.gov/vuln/search)
 
 ## **Tools Overview**
 
